@@ -1,12 +1,49 @@
-# React + Vite
+# 🍳 AI Recipe Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An intelligent **Recipe Generator App** built with **React + Tailwind CSS**.  
+This app takes user preferences like **Cooking Ingredients**, **Dietary Preference**, **Cuisine Style**, and **Maximum Cooking Time** as inputs and generates a **personalized recipe** with full cooking instructions.
 
-Currently, two official plugins are available:
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://sumitsharma31.github.io/AI-Recipe-Generator/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
+- 🥗 Generate recipes based on **available ingredients**  
+- 🌱 Support for different **dietary preferences** (veg, non-veg, vegan, etc.)  
+- 🍜 Choose from multiple **cuisine styles**  
+- ⏳ Set **maximum cooking time** to get quick recipes  
+- 🎨 Clean and responsive UI built with **Tailwind CSS**  
+- 🔀 Smooth navigation using **React Router**  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- ⚛️ **React**  
+- 🎨 **Tailwind CSS**  
+- 🌐 **React DOM**  
+- 🧭 **React Router**  
+
+---
+
+## 📷 Screenshots
+
+### 🔹 Home Interface
+![Home Page](screenshots/home.png)
+
+### 🔹 Recipe Result Page
+![Recipe Result](screenshots/result.png)
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/AI-Recipe-Generator.git
+cd AI-Recipe-Generator
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
