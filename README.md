@@ -28,10 +28,10 @@ This app takes user preferences like **Cooking Ingredients**, **Dietary Preferen
 ## 📷 Screenshots
 
 ### 🔹 Home Interface
-![Home Page](screenshots/home.png)
+![Home Page](https://raw.githubusercontent.com/Sumitsharma31/AI-Recipe-Generator/refs/heads/main/public/Home-Page.png)
 
 ### 🔹 Recipe Result Page
-![Recipe Result](screenshots/result.png)
+![Recipe Result](https://raw.githubusercontent.com/Sumitsharma31/AI-Recipe-Generator/refs/heads/main/public/Result-page.png)
 
 ---
 
