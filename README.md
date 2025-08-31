@@ -1,83 +1,49 @@
-🍳 AI Recipe Generator
+# 🍳 AI Recipe Generator
 
-An intelligent Recipe Generator App built with React + Tailwind CSS.
-This app takes user preferences like Cooking Ingredients, Dietary Preference, Cuisine Style, and Maximum Cooking Time as inputs and generates a personalized recipe with full cooking instructions.
+An intelligent **Recipe Generator App** built with **React + Tailwind CSS**.  
+This app takes user preferences like **Cooking Ingredients**, **Dietary Preference**, **Cuisine Style**, and **Maximum Cooking Time** as inputs and generates a **personalized recipe** with full cooking instructions.
 
-👉 Live Demo: AI Recipe Generator
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://sumitsharma31.github.io/AI-Recipe-Generator/)
 
-🚀 Features
+---
 
-🥗 Generate recipes based on available ingredients
+## 🚀 Features
+- 🥗 Generate recipes based on **available ingredients**  
+- 🌱 Support for different **dietary preferences** (veg, non-veg, vegan, etc.)  
+- 🍜 Choose from multiple **cuisine styles**  
+- ⏳ Set **maximum cooking time** to get quick recipes  
+- 🎨 Clean and responsive UI built with **Tailwind CSS**  
+- 🔀 Smooth navigation using **React Router**  
 
-🌱 Support for different dietary preferences (veg, non-veg, vegan, etc.)
+---
 
-🍜 Choose from multiple cuisine styles
+## 🛠️ Tech Stack
+- ⚛️ **React**  
+- 🎨 **Tailwind CSS**  
+- 🌐 **React DOM**  
+- 🧭 **React Router**  
 
-⏳ Set maximum cooking time to get quick recipes
+---
 
-🎨 Clean and responsive UI built with Tailwind CSS
+## 📷 Screenshots
 
-🔀 Smooth navigation using React Router
+### 🔹 Home Interface
+![Home Page](screenshots/home.png)
 
-🛠️ Tech Stack
+### 🔹 Recipe Result Page
+![Recipe Result](screenshots/result.png)
 
-React (Frontend Library)
+---
 
-Tailwind CSS (Styling)
+## ⚙️ Installation & Setup
 
-React DOM (Rendering)
-
-React Router (Routing & navigation)
-
-📷 Screenshots
-Home Interface
-
-Add your screenshot here
-
-![App Screenshot](./screenshots/home.png)
-
-Recipe Result Page
-
-Add your screenshot here
-
-![Recipe Result](./screenshots/result.png)
-
-⚙️ Installation & Setup
-
-Clone the repository:
-
+```bash
+# Clone the repository
 git clone https://github.com/your-username/AI-Recipe-Generator.git
 cd AI-Recipe-Generator
 
-
-Install dependencies:
-
+# Install dependencies
 npm install
 
-
-Run the development server:
-
+# Run the development server
 npm run dev
-
-
-Open in browser:
-
-http://localhost:5173/
-
-📦 Deployment
-
-This project is deployed on GitHub Pages. To redeploy:
-
-npm run build
-npm run deploy
-
-🤝 Contributing
-
-Contributions are welcome!
-Feel free to open an issue or submit a pull request for improvements.
-
-📜 License
-
-This project is licensed under the MIT License.
-
-👉 Once you add your screenshots inside a screenshots/ folder, the images will display automatically in the README.
